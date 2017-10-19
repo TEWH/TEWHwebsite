@@ -14,24 +14,26 @@
     color:#fff;
     padding: 10px;
     height:100px;
+
 }
 
-.blur {
-  position: relative;
-  display: inline-block; /* make the div not 100% */
+.maintitle {
+	font-size: 5vw;
 }
-/* the 'blur' effect */
-.blur:before {
-  content: '';
-  background-color: #000;
-  opacity: 0.5;
-  width: 100%;
-  height: 100%;
-  z-index: 1;
-  position: absolute;
-  top: 0;
-  left: 0;
+
+.incub {
+	background-image: url("../img/incubator.png");
+	padding: 25% 8%;
 }
-.blur img {
-  display: block; /* remove bottom space */
+
+.imgtextcolor {
+	color: white;
+}
+
+#memberbg {
+	background-color: #D4F4DD;
+}
+
+#officersbg {
+	background-color: #8AB0AB;
 }
