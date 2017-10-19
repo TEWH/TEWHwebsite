@@ -2,7 +2,7 @@
 .headerimage {
 	padding: 0;
 	text-align:center;
-    position:relative;
+  position:relative;
 }
 
 .headtitle {
@@ -20,7 +20,7 @@
 
 .incub {
 	background-image: url("../img/incubator.png");
-	background-size: fill;
+	background-size: cover;
 	padding: 25% 8%;
 }
 
