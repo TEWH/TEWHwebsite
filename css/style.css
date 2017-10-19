@@ -1,3 +1,4 @@
+@media only screen and (min-width: 100px) {
 .headerimage {
 	padding: 0;
 	text-align:center;
@@ -19,7 +20,7 @@
 
 .incub {
 	background-image: url("../img/incubator.png");
-	background-size: cover;
+	background-size: fill;
 	padding: 25% 8%;
 }
 
@@ -34,9 +35,6 @@
 #officersbg {
 	background-color: #8AB0AB;
 }
-
-#resizebackgroundimage {
-
 }
 
 @media screen and (min-width: 1080px) {
