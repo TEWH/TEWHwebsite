@@ -1,3 +1,4 @@
+@media only screen and (min-width: 100px) {
 .headerimage {
 	padding: 0;
 	text-align:center;
@@ -36,4 +37,5 @@
 
 #officersbg {
 	background-color: #8AB0AB;
+}
 }
