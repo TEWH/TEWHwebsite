@@ -18,10 +18,6 @@
 
 }
 
-.maintitle {
-	font-size: 5vw;
-}
-
 .incub {
 	background-image: url("../img/incubator.png");
 	padding: 25% 8%;
@@ -38,4 +34,10 @@
 #officersbg {
 	background-color: #8AB0AB;
 }
+}
+
+@media screen and (min-width: 800px) {
+	.maintitle {
+		font-size: 5vw;
+	}
 }
